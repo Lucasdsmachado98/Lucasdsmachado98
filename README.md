@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-<!--
-**Lucasdsmachado98/Lucasdsmachado98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Municipal de Palhoça (FMP).  
+💼 Estagiário na **Secretaria de Estado da Educação (SED)** noa Gerência de Logística (GELOG).  
+🚀 Buscando aprimorar minhas habilidades em **Desenvolvimento Full Stack e Automação**.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que utilizo:
+- 💻 **Linguagens**: Java, Python, JavaScript  
+- 🖥️ **Frontend**: HTML, CSS, React  
+- ⚙️ **Backend**: Spring Boot, Django, FastAPI  
+- 🗄️ **Banco de Dados**: PostgreSQL, MySQL, Firebase  
+- 📦 **DevOps**: Git, Docker, CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque:
+🔹 [Sistema de Gestão de Chamados (Help Desk)](link-do-repositorio)  
+🔹 [Dashboard de Análise de Dados](link-do-repositorio)  
+🔹 [Aplicativo de Controle Financeiro](link-do-repositorio)  
+
+📫 **Entre em contato:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)]([seu-linkedin](https://www.linkedin.com/in/lucas-da-silva-machado-8901b32a4/))  
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/Lucasdsmachado98)
