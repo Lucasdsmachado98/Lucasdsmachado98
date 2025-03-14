@@ -17,5 +17,5 @@
 🔹 [Aplicativo de Controle Financeiro](link-do-repositorio)  
 
 📫 **Entre em contato:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)]([seu-linkedin](https://www.linkedin.com/in/lucas-da-silva-machado-8901b32a4/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/lucas-da-silva-machado-8901b32a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/Lucasdsmachado98)
