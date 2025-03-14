@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Municipal de Palhoça (FMP).  
-💼 Estagiário na **Secretaria de Estado da Educação (SED)** noa Gerência de Logística (GELOG).  
+💼 Estagiário na **Secretaria de Estado da Educação (SED)** na Gerência de Logística (GELOG).  
 🚀 Buscando aprimorar minhas habilidades em **Desenvolvimento Full Stack e Automação**.
 
 ## 🔧 Tecnologias que utilizo:
